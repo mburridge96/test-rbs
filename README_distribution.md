@@ -1,8 +1,20 @@
 # Distribution Summary
 
-- 0 samples planned for distribution
+- 12 samples planned for distribution
 
 ### Parts:
 
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_B0030_m0
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_B0031_m0
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_B0032_m0
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_B0033_m0
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_B0034_m0
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_B0034_m1
+- RBSs_in_vector_RBSs_in_vector_ins_BBa_Z0262
+- RBSs_in_vector_RBSs_in_vector_ins_BCD1
+- RBSs_in_vector_RBSs_in_vector_ins_BCD12
+- RBSs_in_vector_RBSs_in_vector_ins_BCD13
+- RBSs_in_vector_RBSs_in_vector_ins_BCD8
+- RBSs_in_vector_RBSs_in_vector_ins_SpoVG
 
 _Note: automatically generated from distribution SBOL file; do not edit_
